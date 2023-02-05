@@ -1,0 +1,5 @@
+export {DiscoveryScreen} from "./DiscoveryScreen"
+export {HomeScreen} from "./HomeScreen"
+export {MapScreen} from "./MapScreen"
+export {NewsScreen} from "./NewsScreen"
+export {EducationScreen} from "./EducationScreen"
